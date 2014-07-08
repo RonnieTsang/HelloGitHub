@@ -15,6 +15,7 @@ int main(int argc, const char * argv[])
         
         // insert code here...
         NSLog(@"Hello, World!");
+        NSLog(@"Using GitHub Repository as Source Control in XCode 5!");
         
     }
     return 0;
